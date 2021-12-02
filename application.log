@@ -1,0 +1,20 @@
+2021-12-02 12:11:10,313  INFO [main] TestBase:49 - Launching an Application..
+2021-12-02 12:11:10,315  INFO [main] TestBase:34 - Reading a Property From Property File
+2021-12-02 12:11:10,317  INFO [main] TestBase:44 - value found in the property file for the browser
+2021-12-02 12:11:10,317  INFO [main] TestBase:34 - Reading a Property From Property File
+2021-12-02 12:11:10,317  INFO [main] TestBase:44 - value found in the property file for the chromeDriverFilePath
+2021-12-02 12:11:12,045  INFO [main] TestBase:54 - Chrome Browser initialized...
+2021-12-02 12:11:12,045  INFO [main] TestBase:34 - Reading a Property From Property File
+2021-12-02 12:11:12,045  INFO [main] TestBase:44 - value found in the property file for the url
+2021-12-02 12:11:25,623  INFO [main] TestBase:34 - Reading a Property From Property File
+2021-12-02 12:11:25,623  INFO [main] TestBase:44 - value found in the property file for the pageload
+2021-12-02 12:11:25,637  INFO [main] TestBase:34 - Reading a Property From Property File
+2021-12-02 12:11:25,638  INFO [main] TestBase:44 - value found in the property file for the pageload
+2021-12-02 12:11:39,121  INFO [main] TestBase:49 - Launching an Application..
+2021-12-02 12:11:39,121  INFO [main] TestBase:34 - Reading a Property From Property File
+2021-12-02 12:11:39,122  INFO [main] TestBase:44 - value found in the property file for the browser
+2021-12-02 12:11:39,122  INFO [main] TestBase:34 - Reading a Property From Property File
+2021-12-02 12:11:39,123  INFO [main] TestBase:44 - value found in the property file for the chromeDriverFilePath
+2021-12-02 12:11:40,199  INFO [main] TestBase:54 - Chrome Browser initialized...
+2021-12-02 12:11:40,199  INFO [main] TestBase:34 - Reading a Property From Property File
+2021-12-02 12:11:40,199  INFO [main] TestBase:44 - value found in the property file for the url
